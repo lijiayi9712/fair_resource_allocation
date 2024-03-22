@@ -5,7 +5,7 @@ This repository contains the code for the numerical simulations presented in the
 
 ## Citation
 
-If you use this code in your research, please cite our paper:
-
-[add BibTeX lter]
-
+Cite our paper as:
+```
+[add BibTeX later]
+```
